@@ -17,3 +17,21 @@ HINT: To calculate average of 3 values, add them all together and divide by 3
 HINT: To check if number A is at least double number B, check for A >= 2 \* B. Apply this to the team's average scores 😉
 
 😀
+
+```
+
+ cost arrowFunction = (par,par)=>excuting;
+
+ function expression1 (para,para){
+   return ;
+ }
+ function expression2 (para, para){
+    const variable = expression1(para);
+    cosst variable2 = expression1(para);
+
+    return (variable1,variable2);
+ }
+ console.log(expression2(value1,value2));
+
+
+```
